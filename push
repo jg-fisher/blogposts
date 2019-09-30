@@ -1,8 +1,0 @@
-#!bin/bash
-
-git config user.name "John G. Fisher"
-
-git add -A
-git commit -m "Post Update"
-git push origin master
-
